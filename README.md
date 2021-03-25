@@ -1,6 +1,6 @@
 # Species’ traits drive amphibian tolerance to anthropogenic habitat modification
 
-This repository contains data and code to reproduce Liu et al. (2021). The complete raw dataset is not fully available due to sensitivities in relation to locations of rare or threatened species and citizen scientist information. However, processed species’ anthropogenic modification indices are provided and the data, with sensitive species’ localities removed or buffered, are made available annually (Rowley & Callaghan, 2020; https://doi.org/10.3897/zookeys.912.38253). The following R information was used at the time of analysis:
+This repository contains data and code to reproduce Liu et al. (2021) Species’ traits drive amphibian tolerance to anthropogenic habitat modification. Global Change Biology. The complete raw dataset is not fully available due to sensitivities in relation to locations of rare or threatened species and citizen scientist information, but the FrogID data, with sensitive species’ localities removed or buffered, are made available annually (Rowley & Callaghan, 2020; https://doi.org/10.3897/zookeys.912.38253). Here, we provide processed species’ anthropogenic modification indices and code to reproduce the main figures and analyses in the manuscript. The following R information was used at the time of analysis:
 
 sessionInfo()
 
